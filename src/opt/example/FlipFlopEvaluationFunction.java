@@ -5,7 +5,7 @@ import opt.EvaluationFunction;
 import shared.Instance;
 
 /**
- * A function that counts the ones in the data
+ * A function that counts the number of inversions in the data
  * @author Andrew Guillory gtg008g@mail.gatech.edu
  * @version 1.0
  */
